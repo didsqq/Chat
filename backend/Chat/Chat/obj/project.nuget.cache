@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "0dESF3r0ldM=",
+  "dgSpecHash": "H5/rCACRCww=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Господин\\Desktop\\Chat\\Chat\\Chat\\Chat.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Господин\\Desktop\\Chat\\backend\\Chat\\Chat\\Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.6\\microsoft.extensions.caching.stackexchangeredis.8.0.6.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\Господин\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

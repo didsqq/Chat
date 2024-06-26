@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\chat\\chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\backend\\chat\\chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|solutionrelative:chat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\chat\\chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|solutionrelative:chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\backend\\chat\\chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|solutionrelative:chat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\chat\\chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|solutionrelative:chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC8CE84-9A55-4A38-A0D1-52AB6C94D935}|docker-compose.dcproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\backend\\chat\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDC8CE84-9A55-4A38-A0D1-52AB6C94D935}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\chat\\chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\backend\\chat\\chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|solutionrelative:chat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|c:\\users\\\u0433\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\desktop\\chat\\backend\\chat\\chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154CBC86-41BD-42D6-81F1-0450DB226DF2}|Chat\\Chat.csproj|solutionrelative:chat\\models\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,59 +33,72 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Chat\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Chat\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-24T22:10:13.877Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\appsettings.json",
+              "RelativeDocumentMoniker": "Chat\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\appsettings.json",
+              "RelativeToolTip": "Chat\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T10:46:19.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserConnection.cs",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Models\\UserConnection.cs",
-              "RelativeDocumentMoniker": "Chat\\Models\\UserConnection.cs",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Models\\UserConnection.cs",
-              "RelativeToolTip": "Chat\\Models\\UserConnection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T09:55:50.091Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-25T19:34:18.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Hubs\\ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Chat\\Hubs\\ChatHub.cs",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "Chat\\Hubs\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABUAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T09:52:00.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Program.cs",
-              "RelativeDocumentMoniker": "Chat\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\Chat\\Chat\\Program.cs",
-              "RelativeToolTip": "Chat\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Chat\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Chat\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T20:17:35.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\Models\\UserConnection.cs",
+              "RelativeDocumentMoniker": "Chat\\Models\\UserConnection.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043E\u0441\u043F\u043E\u0434\u0438\u043D\\Desktop\\Chat\\backend\\Chat\\Chat\\Models\\UserConnection.cs",
+              "RelativeToolTip": "Chat\\Models\\UserConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T09:50:46.784Z",
+              "WhenOpened": "2024-06-24T09:55:50.091Z",
               "EditorCaption": ""
             }
           ]
